@@ -1496,6 +1496,7 @@
 #include "code\modules\hydroponics\grown\citrus.dm"
 #include "code\modules\hydroponics\grown\cocoa_vanilla.dm"
 #include "code\modules\hydroponics\grown\corn.dm"
+#include "code\modules\hydroponics\grown\cucumber.dm"
 #include "code\modules\hydroponics\grown\eggplant.dm"
 #include "code\modules\hydroponics\grown\flowers.dm"
 #include "code\modules\hydroponics\grown\grass_carpet.dm"
