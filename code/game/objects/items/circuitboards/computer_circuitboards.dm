@@ -79,6 +79,10 @@
 	name = "Teleporter (Computer Board)"
 	build_path = /obj/machinery/computer/teleporter
 
+obj/item/circuitboard/computer/timemachine
+	name = "Spatiotemporal Control Station (Computer Board)"
+	build_path = /obj/machinery/computer/timemachine
+
 /obj/item/circuitboard/computer/secure_data
 	name = "Security Records Console (Computer Board)"
 	build_path = /obj/machinery/computer/secure_data
